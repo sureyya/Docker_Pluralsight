@@ -1,0 +1,15 @@
+{
+	"name":"hello-docker",
+	"private": true,
+	"version" : "0.0.1",
+	"description":"Hello Worl docker application",
+	"main":"app.js",
+	"author":"Sureyya Uslu",
+	"license":"DO NOT COPY",
+	"dependencies":{
+		"express":"3.2.4",
+		"jade":"1.11.0",
+		"mocha":"1.20.1",
+		"supertest":"1.1.0"
+	}
+}
